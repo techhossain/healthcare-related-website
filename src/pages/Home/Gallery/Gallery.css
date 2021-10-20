@@ -1,0 +1,5 @@
+#gallery img:hover{
+  opacity: 0.5;
+  transition: 1s;
+  transform: scale(0.96) skew(2deg);
+}

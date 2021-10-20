@@ -1,0 +1,90 @@
+[
+	{
+		"id": "101",
+		"title": "PLATINUM MEMBERSHIP",
+		"information": "Single person (Yearly Charges) gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits 5000 locker charges Included: customized diet, workout, session therapy Per KG at 5,000BDT",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "7000",
+		"annulFees": "70000",
+		"membershipFor": "Single Person",
+		"branch": "Any",
+		"image": "https://techhossain.github.io/api/details-1.jpg"
+	},
+	{
+		"id": "102",
+		"title": "PLATINUM MEMBERSHIP",
+		"information": "For Couples(Yearly Charges) gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steambath 5000 locker charges",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "15000",
+		"annulFees": "120000",
+		"membershipFor": "Couple",
+		"branch": "Any",
+		"image": "https://techhossain.github.io/api/details-2.jpg"
+	},
+	{
+		"id": "103",
+		"title": "GOLD MEMBERSHIP",
+		"information": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steambath 3000 locker charges",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "4000",
+		"annulFees": "40000",
+		"membershipFor": "Single Person",
+		"branch": "Single Branch",
+		"image": "https://techhossain.github.io/api/details-3.jpg"
+	},
+	{
+		"id": "104",
+		"title": "GOLD MEMBERSHIP",
+		"information": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steambath 3000 locker charges",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "7000",
+		"annulFees": "75000",
+		"membershipFor": "Couple",
+		"branch": "Single Branch",
+		"image": "https://techhossain.github.io/api/details-8.jpg"
+	},
+	{
+		"id": "105",
+		"title": "SILVER MEMBERSHIP",
+		"information": "gymnasium, programming exercise, Class aptent taciti sociosqu ad litora torquent per.",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "8000",
+		"annulFees": "90000",
+		"membershipFor": "Single Person",
+		"branch": "Single Branch",
+		"image": "https://techhossain.github.io/api/details-5.jpg"
+	},
+	{
+		"id": "106",
+		"title": "SILVER MEMBERSHIP",
+		"information": "gymnasium, programming exercise, Class aptent taciti sociosqu ad litora torquent per.",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "12000",
+		"annulFees": "120000",
+		"membershipFor": "Couple",
+		"branch": "Single Branch",
+		"image": "https://techhossain.github.io/api/details-9.jpg"
+	},
+	{
+		"id": "107",
+		"title": "BRONZE MEMBERSHIP",
+		"information": "gymnasium, programming exercise, Class aptent taciti sociosqu ad litora torquent per.",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "5000",
+		"annulFees": "60000",
+		"membershipFor": "Single Person",
+		"branch": "Single Branch",
+		"image": "https://techhossain.github.io/api/details-7.jpg"
+	},
+	{
+		"id": "108",
+		"title": "BRONZE MEMBERSHIP",
+		"information": "gymnasium, programming exercise, Class aptent taciti sociosqu ad litora torquent per.",
+		"time": "ANY TIME ACCESS",
+		"monthlyFees": "8000",
+		"annulFees": "90000",
+		"membershipFor": "Couple",
+		"branch": "Single Branch",
+		"image": "https://techhossain.github.io/api/details-4.jpg"
+	}
+]
